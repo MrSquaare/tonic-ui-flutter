@@ -1,0 +1,11 @@
+name: tonic_ui
+
+packages:
+  - tonic_ui
+  - widgetbook
+
+scripts:
+  analyze:
+    exec: dart analyze .
+  format:
+    exec: dart format .

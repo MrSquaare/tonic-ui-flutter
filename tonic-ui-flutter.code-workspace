@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "tonic_ui",
+      "path": "./tonic_ui"
+    },
+    {
+      "name": "widgetbook",
+      "path": "./widgetbook"
+    },
+  ]
+}
